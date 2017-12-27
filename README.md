@@ -2,7 +2,11 @@
 calibre-themes
 
 This is a repo where I'll dump my Calibre reader themes. I like 
-to have a few options, so I'll post whatever alternatives I come up with. 
+to have a few options, so I'll post whatever alternatives I come up with.
+
+solarized-dark.css and solarized-light.css are obvious,
+nightly-solzd-dark.css is solarized-dark.css with black background and
+lighter grey for \<body\> text.
 
 ## Installation
 

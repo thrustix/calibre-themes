@@ -14,5 +14,3 @@ To use, just copy the contents of any of the css files into your calibre
 ebook viewer settings. Just open up an ebook, click `preferences`, then 
 the `user stylesheet` tab. Paste in the contents of the file. Then, just
 save and admire how cool you are.
-
-Disclaimer: Opinions not my own, unless unspoken.
